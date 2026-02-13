@@ -3,6 +3,11 @@
   "name": "Chroma: Colorblind assistant",
   "version": "1.0",
   "description": "Adjusts website colors for colorblind users.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "chroma@colorblind.assistant"
+    }
+  },
   "permissions": [
     "activeTab",
     "scripting",
