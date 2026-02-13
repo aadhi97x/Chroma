@@ -5,11 +5,11 @@
   "description": "Adjusts website colors for colorblind users.",
   "browser_specific_settings": {
     "gecko": {
-      "id": "chroma@colorblind.assistant"
-    },
-    "data_collection_permissions": {
-      "sensitive_data": false,
-      "interaction_data": false
+      "id": "chroma@colorblind.assistant",
+      "data_collection_permissions": {
+        "sensitive_data": false,
+        "interaction_data": false
+      }
     }
   },
   "permissions": [
